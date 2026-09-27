@@ -60,3 +60,7 @@ E-Commerce Data
 🗄️ Data Warehouse Design
 
 The database is named: ecommerce_dw
+
+## Dashboard Preview
+
+![E-Commerce Sales Dashboard](Screenshots/dashboard.png)
